@@ -5,5 +5,5 @@ This repository contains the most important code files from my working directory
 
 The code cannot be run directly from this repository, as the original working environment was a university server. Several required data files and derived `.npy` index files are not included here. Additionally, the file paths in the code are configured for the original environment.
 
-The repository also includes Docker-related files and a script used to build a Docker container that enables SSH access to the GPU cluster (via GPULab).
+The repository also includes Docker-related files used to build a Docker container that allows SSH connections to the GPU cluster (via GPULab).
 
