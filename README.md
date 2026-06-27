@@ -7,3 +7,5 @@ The code cannot be run directly from this repository, as the original working en
 
 The repository also includes Docker-related files used to build a Docker container that allows SSH connections to the GPU cluster (via GPULab).
 
+This project includes code adapted from:
+https://github.com/AMLab-Amsterdam/L0_regularization
